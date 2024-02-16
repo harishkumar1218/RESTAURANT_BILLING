@@ -10,7 +10,7 @@ Please select your prefered operation
 3.Search Invoice
 4.Exit
 
-#billing 
+billing 
             ADV. Restaurant
            -----------------
 Date:Feb 16 2024
